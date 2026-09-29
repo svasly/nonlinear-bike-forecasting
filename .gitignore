@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Виртуальные окружения
+.venv/
+venv/
+
+# Секреты — никогда не коммитим
+.env
+!.env.example
+
+# Служебные папки Jupyter
+.ipynb_checkpoints/
+
+# ОС и редакторы
+Thumbs.db
+.DS_Store
+.vscode/
+.idea/
